@@ -149,7 +149,3 @@ Based on the results of the analysis, an online learning platform may consider t
 ## 🏁 Conclusion
 
 The Online Course Purchase Analysis project demonstrates how data analytics can transform purchase records into meaningful business insights. Through data preprocessing, exploratory data analysis, visualization, and interpretation, the project aims to identify customer preferences, evaluate course performance, and support informed business decisions. The results can help online learning platforms improve marketing effectiveness, optimize course offerings, and develop strategies for sustainable growth.
-
-## 📄 License
-
-This project is intended for educational and portfolio purposes. Add a suitable open-source license if you want others to reuse or modify the project under defined terms.
